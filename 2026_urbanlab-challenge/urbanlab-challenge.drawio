@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="H8Bae6RqDrFdcTLVhafJ">
+    <mxGraphModel dx="1315" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-10" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-11" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-12" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-13" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-14" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-15" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Strona Gov.pl&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-17" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;https://bip.lublin.eu/e-urzad/opisy-uslug/&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-19" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;prezydent-zastepcy-pelnomocnicy/organy-doradcze/&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-21" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;https://bip.lublin.eu/urzad-miasta-lublin/struktura-organizacyjna/&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="316" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-23" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;https://bip.lublin.eu/prezydent-zastepcy-pelnomocnicy/zastepcy-prezydenta/&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="320" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-25" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;https://bip.lublin.eu/prezydent-zastepcy-pelnomocnicy/prezydent&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-28" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Inter; color: rgb(0, 0, 0); text-align: start;&quot;&gt;https://bip.lublin.eu/prezydent-zastepcy-pelnomocnicy/pelnomocnicy&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="320" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-30" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser stron uslug" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-31" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser doradzcow" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-32" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser struktury organizacyjnej" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-33" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser zastepcow prezydenta" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-34" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser prezydenta" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-35" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parser pelnomocnicy" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-39" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-41" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zbieracz danych (Tablela)" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-47" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-38" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Procesownie tekstu ze stron (embedding)" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-53" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2KvE3JHwPmLR8V8d2KYZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-40" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Procesowanie dokumentów (OCR)" vertex="1">
+          <mxGeometry height="60" width="120" x="1370" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-42" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="RAG" vertex="1">
+          <mxGeometry height="80" width="60" x="1820" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-48" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-45" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="Łącznik danych ze strony" vertex="1">
+          <mxGeometry height="80" width="60" x="1654" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-49" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Frontend" vertex="1">
+          <mxGeometry height="200" width="200" x="2170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-51" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2KvE3JHwPmLR8V8d2KYZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-52" edge="1" parent="1" source="2KvE3JHwPmLR8V8d2KYZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KvE3JHwPmLR8V8d2KYZ-50" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Backend" vertex="1">
+          <mxGeometry height="80" width="120" x="1970" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
